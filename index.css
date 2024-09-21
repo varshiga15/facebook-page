@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f2f4f7;
+}
+.signin{
+    height: 314px;
+    width: 396px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 108vh;
+    margin-top: 20vh;
+    box-shadow: 0px 1px 2px 0px;
+}
+.in{
+    padding: 10px;
+    width: 25px;
+}
+.detail{
+    padding: 10px;
+}
+.detail input{
+    width: 350px;
+    height: 45px;
+    border: 1px solid #dddfe2;
+    border-radius: 10px;
+}
+.button button{
+    background-color: #0866FF;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    padding: 08px;
+    width: 300px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 1vh;
+}
+.img{
+    margin-left: 35vh;
+    margin-top: -45vh;
+}
+h2{
+    font-size: 28px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 35vh;
+}
+.forget{
+    color: #0866FF;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15vh;
+    padding: 10px;
+}
+.button1 button{
+    background-color: #42b72a;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    padding: 08px;
+    width: 200px;
+    line-height: 4vh;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+    margin-top: 1vh;
+}
+.last{
+    margin-left: 900px;
+    margin-top: 120px;
+}
